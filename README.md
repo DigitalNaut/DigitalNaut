@@ -13,7 +13,7 @@
 ## Contact
 
 <div>
-  <a href="https://discord.gg/Karamel#7531" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Karamel#7531" height="30" width="40" /></a>
+  <a href="https://discord.com/users/karamel#7531" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Karamel#7531" height="30" width="40" /></a>
 </div>
 
 ## My Favorite Tools
