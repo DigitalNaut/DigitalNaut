@@ -1,6 +1,6 @@
 # About Me
 
-🔭 I’m currently working on a full stack project to manage reports from on-field operators meant to improve the administrative overhead with with semi-automated tools.
+🔭 I’m currently working on a full stack project to manage reports from on-field operators meant to empower the administrative overhead with with semi-automated tools.
 
 🌱 I’m currently learning to integrate Sequelize with TypeScript in Express. I'm also learning multiplayer architecture in Unity on my spare time.
 
