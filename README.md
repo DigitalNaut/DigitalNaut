@@ -1,10 +1,10 @@
 # About Me
 
-🔭 I’m currently working on a full stack project called Maquisoft, a specialized tool to manage reports from on-field operators meant to improved the field with automation.
+🔭 I’m currently working on a full stack project to manage reports from on-field operators meant to improve the administrative overhead with with semi-automated tools.
 
-🌱 I’m currently learning to integrate Sequelize with TypeScript in Express. I'm also learning Unity and shaders on my free time.
+🌱 I’m currently learning to integrate Sequelize with TypeScript in Express. I'm also learning multiplayer architecture in Unity on my spare time.
 
-👯 I’m looking to collaborate on free and open-source software, particularly those with practical applications like podcast managers and screen notation apps with native integration with Windows.
+👯 I’m looking to collaborate on FOSS, particularly apps for everyday use like podcast managers and screen notation software with native integration.
 
 😄 Pronouns: Him/his
 
