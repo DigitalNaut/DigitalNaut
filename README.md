@@ -2,13 +2,11 @@
 
 🔭 I’m currently working on a full stack project to manage reports from on-field operators meant to empower the administrative overhead with with semi-automated tools.
 
-🌱 I’m currently learning to integrate Sequelize with TypeScript in Express. I'm also learning multiplayer architecture in Unity on my spare time.
+🌱 I’m currently learning Remix Run with TypeScript.
 
 👯 I’m looking to collaborate on FOSS, particularly apps for everyday use like podcast managers and screen notation software with native integration.
 
 😄 Pronouns: Him/his
-
-😻 Fun fact: Cats are very social creatures! Having a pair has been a blessing to our household.
 
 ## Contact
 
