@@ -1,10 +1,10 @@
 # About Me
 
-🔭 I’m currently working on a full stack project to manage reports from on-field operators meant to empower the administrative overhead with with semi-automated tools.
+🔭 I like working on full-stack project, SPAs and video games.
 
-🌱 I’m currently learning Remix Run with TypeScript.
+🌱 I’m attempting to learn shaders and Blender's geometry nodes.
 
-👯 I’m looking to collaborate on FOSS, particularly apps for everyday use like podcast managers and screen notation software with native integration.
+👯 I’m looking to collaborate on FOSS and documentation.
 
 😄 Pronouns: Him/his
 
@@ -44,7 +44,3 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aftereffects/aftereffects-plain.svg" title="After Effects" **alt="After Effects" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" title="Illustrator" **alt="Illustrator" width="40" height="40"/>&nbsp;
 </div>
-
-## Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
