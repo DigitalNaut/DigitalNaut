@@ -1,12 +1,8 @@
 # About Me
 
-🔭 I like working on full-stack project, SPAs and video games.
-
-🌱 I’m attempting to learn shaders and Blender's geometry nodes.
+🔭 I like working on full-stack projects, SPAs and video games.
 
 👯 I’m looking to collaborate on FOSS and documentation.
-
-😄 Pronouns: Him/his
 
 ## Contact
 
@@ -23,7 +19,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firefox/firefox-original-wordmark.svg" title="Firefox" **alt="Mozilla Firefox" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="TypeScript" **alt="TypeScript" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind" **alt="TailwindCSS" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind" **alt="TailwindCSS" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
   <img style="background-color:white;border-radius:2px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" title="Unity" **alt="Unity 3D" width="40" height="40"/>&nbsp;
 </div>
